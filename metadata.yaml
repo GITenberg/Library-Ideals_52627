@@ -1,0 +1,33 @@
+_repo: Library-Ideals_52627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Legler, Henry Eduard
+    alias: Legler, Henry E. (Henry Eduard)
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '34965'
+    url: http://www.gutenberg.org/2009/agents/34965
+  editor:
+    agent_name: Legler, Henry M.
+    gutenberg_agent_id: '46963'
+    url: http://www.gutenberg.org/2009/agents/46963
+description: ''
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52627'
+  lccn: '18006410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libraries'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: Preface -- The problem of the cities -- Certain phases of library
+  extension -- Next steps -- The world of print and the world's work -- Library work
+  with children -- Traveling libraries -- Administration of library funds.
+title: Library Ideals
+url: http://www.gutenberg.org/ebooks/52627
